@@ -19,6 +19,12 @@ ___________________________________________
    :maxdepth: 1
    
    INTRODUCAO/introducao.rst
+   
+.. toctree::
+   :caption: FUNDAMENTOS NLP
+   :maxdepth: 1
+   
+   FUNDAMENTOS_NLP/fundamentos_nlp.rst
 
 
 .. toctree::
